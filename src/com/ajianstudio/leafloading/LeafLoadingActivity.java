@@ -1,7 +1,9 @@
 
-package com.example.csdnblog4;
+package com.ajianstudio.leafloading;
 
 import java.util.Random;
+
+import com.example.csdnblog4.R;
 
 import android.app.Activity;
 import android.os.Bundle;

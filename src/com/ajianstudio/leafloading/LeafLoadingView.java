@@ -1,9 +1,11 @@
 
-package com.example.csdnblog4;
+package com.ajianstudio.leafloading;
 
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Random;
+
+import com.example.csdnblog4.R;
 
 import android.content.Context;
 import android.content.res.Resources;
